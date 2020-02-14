@@ -1,9 +1,10 @@
 ---
-title: Welcome to my website
+title: With great power comes great responsibility
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/ws_CAPTAIN_AMERICA_1600x1200.jpg"
 feature_text: |
-  ## Hello world
+  ## Welcome... Avengers! Assemble.
 ---
 
-There isn't much going on here yet, but watch this space
+![](https://www.cinechronicle.com/wp-content/uploads/2018/11/Stan-Lee-.jpg)
+

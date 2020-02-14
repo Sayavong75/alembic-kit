@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: Hello Guys
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+- Technologie
+feature_image: "/assets/ws_CAPTAIN_AMERICA_1600x1200.jpg"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+Mon premier article sur le 1er Avenger de l'univers Marvel.

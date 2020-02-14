@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello Guys",
+        "excerpt": "Mon premier article sur le 1er Avenger de l’univers Marvel.\n",
+        "content": "Mon premier article sur le 1er Avenger de l’univers Marvel.\n",
+        "url": "/technologie/2018/08/22/hello-world/"
+      },
+    
+      {
+        "title": "My origin",
+        "excerpt": "\nSteven « Steve » Rogers, alias Captain America est un super-héros évoluant dans l’univers Marvel de la maison d’édition Marvel Comics. Créé par le scénariste Joe Simon et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Captain America Comics #1 en décembre 1940.\n\n",
+        "content": "\nSteven « Steve » Rogers, alias Captain America est un super-héros évoluant dans l’univers Marvel de la maison d’édition Marvel Comics. Créé par le scénariste Joe Simon et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Captain America Comics #1 en décembre 1940.\n\nConçu à l’origine comme une figure patriotique américaine en réaction au régime nazi, le personnage devient actif avant même l’entrée en guerre officielle des États-Unis dans la Seconde Guerre mondiale. Dès le début de sa publication, il est perçu comme le porte-drapeau des valeurs démocratiques de son pays et comme un défenseur du monde libre contre les totalitarismes, notamment le Troisième Reich.\n\nDoté d’une condition physique au summum du potentiel humain, Captain America est un combattant hors pair, un chef-né et un stratège militaire accompli. Il porte un costume reconnaissable entre tous, inspiré du drapeau américain et est équipé d’un bouclier quasi indestructible, composé d’un alliage d’acier et du fictif vibranium, qu’il utilise comme une protection ainsi que comme une arme.\n\nDepuis les années 1960, Captain America fait partie de l’équipe de super-héros les Vengeurs (Avengers, et ses diverses versions) dont il est devenu au fil des ans l’un des piliers.\n",
+        "url": "/technologie/2018/08/23/my-origin/"
+      },
+    
+      {
+        "title": "My shield",
+        "excerpt": "\nLors de ses premières aventures, Rogers porte un bouclier triangulaire en acier ; c’est avec lui qu’il se rend en mission au Wakanda, où il se lie d’amitié avec T’Chaka (le père de T’Challa), le dirigeant du pays et obtient un échantillon du métal vibranium.\n\n",
+        "content": "\nLors de ses premières aventures, Rogers porte un bouclier triangulaire en acier ; c’est avec lui qu’il se rend en mission au Wakanda, où il se lie d’amitié avec T’Chaka (le père de T’Challa), le dirigeant du pays et obtient un échantillon du métal vibranium.\n\n\nPar la suite, des expériences avec ce métal sont faites par le métallurgiste américain, le docteur Myron MacLain et produisent un disque unique et indestructible composé d’un alliage d’acier et de vibranium ; cependant, le savant n’arrive pas à le reproduire.\n\nCe disque métallique est alors donné à Captain America et lui fait office de nouveau bouclier ; au fil des décennies suivantes, les efforts de McLain pour retrouver la formule de cet alliage l’amènent finalement à mettre au point l’adamantium par rétro-ingénierie.\n\n",
+        "url": "/technologie/2018/08/23/my-shield/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "With great power comes great responsibility",
+    "excerpt": "\n",
+    "content": "\n\n",
+    "url": "/"
+  }
+  
+]
+
